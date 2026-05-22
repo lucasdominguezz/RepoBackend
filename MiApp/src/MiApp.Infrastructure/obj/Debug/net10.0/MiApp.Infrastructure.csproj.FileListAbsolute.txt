@@ -1,0 +1,17 @@
+C:\Users\123\Documents\BackendProyecto\MiApp\src\MiApp.Infrastructure\bin\Debug\net10.0\MiApp.Infrastructure.deps.json
+C:\Users\123\Documents\BackendProyecto\MiApp\src\MiApp.Infrastructure\bin\Debug\net10.0\MiApp.Infrastructure.dll
+C:\Users\123\Documents\BackendProyecto\MiApp\src\MiApp.Infrastructure\bin\Debug\net10.0\MiApp.Infrastructure.pdb
+C:\Users\123\Documents\BackendProyecto\MiApp\src\MiApp.Infrastructure\bin\Debug\net10.0\MiApp.Application.dll
+C:\Users\123\Documents\BackendProyecto\MiApp\src\MiApp.Infrastructure\bin\Debug\net10.0\MiApp.Domain.dll
+C:\Users\123\Documents\BackendProyecto\MiApp\src\MiApp.Infrastructure\bin\Debug\net10.0\MiApp.Application.pdb
+C:\Users\123\Documents\BackendProyecto\MiApp\src\MiApp.Infrastructure\bin\Debug\net10.0\MiApp.Domain.pdb
+C:\Users\123\Documents\BackendProyecto\MiApp\src\MiApp.Infrastructure\obj\Debug\net10.0\MiApp.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\123\Documents\BackendProyecto\MiApp\src\MiApp.Infrastructure\obj\Debug\net10.0\MiApp.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\123\Documents\BackendProyecto\MiApp\src\MiApp.Infrastructure\obj\Debug\net10.0\MiApp.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\123\Documents\BackendProyecto\MiApp\src\MiApp.Infrastructure\obj\Debug\net10.0\MiApp.Infrastructure.AssemblyInfo.cs
+C:\Users\123\Documents\BackendProyecto\MiApp\src\MiApp.Infrastructure\obj\Debug\net10.0\MiApp.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\123\Documents\BackendProyecto\MiApp\src\MiApp.Infrastructure\obj\Debug\net10.0\MiApp.In.64A5F882.Up2Date
+C:\Users\123\Documents\BackendProyecto\MiApp\src\MiApp.Infrastructure\obj\Debug\net10.0\MiApp.Infrastructure.dll
+C:\Users\123\Documents\BackendProyecto\MiApp\src\MiApp.Infrastructure\obj\Debug\net10.0\refint\MiApp.Infrastructure.dll
+C:\Users\123\Documents\BackendProyecto\MiApp\src\MiApp.Infrastructure\obj\Debug\net10.0\MiApp.Infrastructure.pdb
+C:\Users\123\Documents\BackendProyecto\MiApp\src\MiApp.Infrastructure\obj\Debug\net10.0\ref\MiApp.Infrastructure.dll
